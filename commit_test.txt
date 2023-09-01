@@ -1,0 +1,8 @@
+2023.9.1
+==	等于	1 == 2	False
+!=	不等于	1 != 2	True
+>	大于	1 > 2	False
+>=	大于等于	1 >= 1	True
+<	小于	1 < 2	True
+<=	小于等于	1 <= 2	True
+in	属于	'a' in 'basic'	True
